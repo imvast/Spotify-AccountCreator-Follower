@@ -48,7 +48,7 @@
     ·
     <a href="https://github.com/imvast/Spotify-AccountCreator-Follower#-changelog">📜 ChangeLog</a>
     ·
-    <a href="https://github.com/imvast/dSpotify-AccountCreator-Follower/issues">⚠️ Report Bug</a>
+    <a href="https://github.com/imvast/Spotify-AccountCreator-Follower/issues">⚠️ Report Bug</a>
     ·
     <a href="https://github.com/imvast/Spotify-AccountCreator-Follower/issues">💡 Request Feature</a>
   </p>
