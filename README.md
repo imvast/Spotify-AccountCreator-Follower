@@ -1,6 +1,6 @@
 <h1 align="center">
 !! COMING VERY SOON !!
-  https://discord.gg/freefollower
+  https://discord.gg/buys
 </h1>
 
 ---
