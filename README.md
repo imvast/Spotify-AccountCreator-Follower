@@ -42,7 +42,7 @@
   <h2 align="center">Spotify - Account Creator & Follower</h2>
 
   <p align="center">
-    A mass account creator and follower for spotify ( <b> created by me and </b> <a href="https://github.com/useragents">@useragents</a> )
+    A mass account creator and follower for spotify ( <b> created by me </b> )
     <br />
     <br />
     <a href="https://discord.gg">🌌 Discord</a>
@@ -59,8 +59,7 @@
 
 ### ⚙️ Setup
 + `pip install` the required modules
-+ `python3 .py`
-+ + Once you get it running do `my balls`
++ `python3 main.py`
 
 ---------------------------------------
 
