@@ -1,6 +1,6 @@
 <h1 align="center">
-!! COMING VERY SOON !!
-  https://discord.gg/hbo
+!! SRC RELEASING SOON !!
+  https://discord.gg/fly
 </h1>
 
 ---
