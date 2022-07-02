@@ -1,6 +1,6 @@
 <h1 align="center">
 !! SRC RELEASING SOON !!
-  https://discord.gg/fly
+  https://discord.gg/fry
 </h1>
 
 ---
