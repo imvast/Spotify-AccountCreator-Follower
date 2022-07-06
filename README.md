@@ -3,22 +3,6 @@
   https://discord.gg/fry
 </h1>
 
----
----
----
----
----
----
----
----
----
----
----
----
----
----
-
-
 
 <div id="top"></div>
 <p align="center">
@@ -59,7 +43,7 @@
 
 ### ⚙️ Setup
 + `pip install` the required modules
-+ `python3 main.py`
++ `python main.py`
 
 ---------------------------------------
 
