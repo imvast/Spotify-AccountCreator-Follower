@@ -1,8 +1,4 @@
-<h1 align="center">
-!! SRC RELEASING SOON !!
-  https://discord.gg/fry
-</h1>
-
+# Currently Patched -- Working on fix
 
 <div id="top"></div>
 <p align="center">
