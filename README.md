@@ -1,4 +1,9 @@
-# Currently Patched -- Working on fix
+<h1 align="center"> Patched - Not working on fixed version. </h1>
+
+- Spotify now uses recaptcha and their v2 api is so shit that i cba to make a working version
+- This version should still work for 100 requests on one host without proxies. </p>
+
+---
 
 <div id="top"></div>
 <p align="center">
