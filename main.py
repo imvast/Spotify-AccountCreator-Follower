@@ -57,7 +57,7 @@ class Spotify():
             email = "%s@vastmail.gg" % (os.urandom(5).hex())
             payload = "birth_day=1&birth_month=01&birth_year=1990&collect_personal_info=undefined&creation_flow=&creation_point=https://www.spotify.com/uk/&displayname=%s&email=%s&gender=neutral&iagree=1&key=a1e486e2729f46d6bb368d6b2bcda326&password=D8c7mc82chb4sd@X2Q&password_repeat=D8c7mc82chb4sd@X2Q&platform=www&referrer=&send-email=1&thirdpartyemail=0&fb=0" % (random.choice(self.usernames), email)
             response = await session.post("https://spclient.wg.spotify.com/signup/public/v1/account", data=payload)
-            if int(response.status_code) == 320: return print("[!] Proxy Detected.")
+            if int(response.status_code) == 320: return print("[!] Shit Proxy Detected.")
             response = response.json()
             
             if response.get("login_token") == None: return await self.create_account(session)
